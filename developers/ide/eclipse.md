@@ -113,8 +113,7 @@ The following files are of interest for the execution environment:
         </dependency>
     ```
 
-1. To run the add-on with the `app.bndrun` run configuration.
-    Double click to open `app.bndrun` file (takes a few seconds):
+1. To run the add-on with the `app.bndrun` run configuration, double-click to open `app.bndrun` file (takes a few seconds):
 
     ![Bndtools](images/ide_debug_eclipse_1_bndtools.png)
 
